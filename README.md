@@ -1,4 +1,4 @@
-<p>👋 Oi, eu sou a Rafa Bittencourt!</p>
+<h1>👋 Oi, eu sou a Rafaela Bittencourt!</h1>
 <p>🌱 Estou aprendendo a programar.</p>
 <p>📓 Estudando:</p>
 <div style="display: inline_block">
