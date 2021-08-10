@@ -1,6 +1,6 @@
 <h1>👋 Oi, eu sou a Rafaela Bittencourt!</h1>
 <p>🌱 Estou aprendendo a programar.</p>
-<p>📓 Estudando:</p>
+<p>📚 Estudando:</p>
 <div style="display: inline_block">
 <a href="http://github.com/rafaelabittencourt"><p><img alt="RafaHTML" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">   <img alt="RafaCSS" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   <img alt="RafaJS" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   <img alt="RafaReact" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img alt="Rafa" align="right" width="150" src="https://iili.io/RTHWKX.gif"></p></a>
 </div>
