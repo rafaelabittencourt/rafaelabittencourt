@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/rafaelabittencourt">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelabittencourt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelabittencourt&layout=compact&langs_count=7&theme=dracula"/>
-</div><br>
+  </a></div><br>
 <p>🌱 Estou aprendendo a programar.</p>
 <p>📚 Estudando:</p>
 <div style="display: inline_block">
