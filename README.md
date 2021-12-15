@@ -1,6 +1,6 @@
 <h1>👋 Hello, world!</h1>
 <h3>Pode me chamar de Rafa.</h3>
-<h4>Estou estudando desenvolvimento Front-end e UX/UI 🤓
+<h4>Estou estudando desenvolvimento Front-end e UX/UI 🤓</h4>
 <div>
   <a href="https://github.com/rafaelabittencourt">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelabittencourt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelabittencourt&layout=compact&langs_count=7&theme=dracula"/>
